@@ -2,4 +2,4 @@
 
 <h3>App for learn react js</h3>
 
-<i>Source files for react app</i>
+<i>Source files for react app
